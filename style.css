@@ -463,5 +463,6 @@ a {
 .ofyr-header {
 	width: 100%;
 	height: 100vh;
+	background: url(ofyr-header.jpg) no-repeat;
 	background-size: cover;
 	}
