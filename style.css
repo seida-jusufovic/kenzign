@@ -546,3 +546,18 @@ a {
 	border-radius: 30px;
 	letter-spacing: 3px;
 }
+
+.product-preview a:hover {
+	color: white;
+	transition: 0.2s;
+	background-color: red;
+	border: 1px solid red;
+	font-size: 12px;
+	font-weight: 200;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	padding: 5px 20px;
+	border-radius: 30px;
+	letter-spacing: 3px;
+}
