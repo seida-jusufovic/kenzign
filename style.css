@@ -28,13 +28,13 @@ ul {
 .header ul li {
 	display: inline-block;
 	color: black;
-	width: 80px;
 	font-size: 12px;
 }
 
 .header ul li a {
 	color: black;
 	text-decoration: none;
+	padding-right: 3em;
 }
 
 .zwartblok {
