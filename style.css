@@ -561,3 +561,34 @@ a {
 	border-radius: 30px;
 	letter-spacing: 3px;
 }
+
+.seida-portfolio {
+	background-color: orange;
+	color: white;
+}
+
+#seida-header {
+	background-color: orange;
+	display: flex;
+	justify-content: center;
+	font-weight: 200;
+}
+
+#seida-header a {
+	color: #191919;
+	letter-spacing: 2px;
+}
+
+#seida-header a:hover {
+	color: #191919;
+	letter-spacing: 2px;
+}
+
+#seida-headline {
+	background-color: orange;
+	color: white;
+}
+
+#ondertitel {
+	color: #191919;
+}
