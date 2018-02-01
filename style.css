@@ -468,5 +468,42 @@ a {
 	}
 
 .ofyr-intro {
-
+	display: flex;
+	justify-content: center;
+	background-color: #191919;
 }
+
+.ofyr-intro p {
+	width: 600px;
+	text-align: center;
+	margin: 8rem 0 8rem 0;
+	color: white;
+}
+
+.ofyr-uitdaging {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	margin: 8rem 0 4rem 0;
+}
+
+.ofyr-uitdaging p {
+	width: 600px;
+	text-align: center;
+	margin: 0;
+}
+
+.ofyr-uitdaging h3 {
+	margin: 0;
+	font-weight: 400;
+	color: #C4C4C4;
+	font-size: 15px;
+}
+
+.ofyr-uitdaging h1 {
+	margin: 0.5rem 0 2rem 0;
+}
+
+
+
