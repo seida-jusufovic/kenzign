@@ -593,3 +593,26 @@ a {
 #ondertitel {
 	color: #191919;
 }
+
+#services {
+	width: 900px;
+	max-width: 900px;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+
+.cirkel {
+	background-color: #FAFBFD;
+	height: 100px;
+	width: 100px;
+	border-radius: 100px;
+	display: flex;
+	justify-content: center;
+	margin: 1rem;
+}
+
+#services-item {
+
+}
+
+
